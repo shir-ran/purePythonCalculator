@@ -146,6 +146,8 @@ def read_digit_by_location(digit, location, and_before_ahadot):
 
 
 
+
+
 # Given the chosen digit - play the relevant sound
 def read_digit(digit):
     digit_to_audio = {
